@@ -1,6 +1,6 @@
    1                     ; C Compiler for STM8 (COSMIC Software)
-   2                     ; Parser V4.10.13 - 06 Dec 2012
-   3                     ; Generator (Limited) V4.3.9 - 06 Dec 2012
+   2                     ; Parser V4.10.19 - 04 Sep 2013
+   3                     ; Generator (Limited) V4.3.11 - 04 Sep 2013
   84                     ; 37 void itoa(uint32_t val, uint8_t base,uint8_t *buf)
   84                     ; 38 {            
   86                     	switch	.text

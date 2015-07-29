@@ -1,6 +1,6 @@
    1                     ; C Compiler for STM8 (COSMIC Software)
-   2                     ; Parser V4.10.13 - 06 Dec 2012
-   3                     ; Generator (Limited) V4.3.9 - 06 Dec 2012
+   2                     ; Parser V4.10.19 - 04 Sep 2013
+   3                     ; Generator (Limited) V4.3.11 - 04 Sep 2013
  201                     ; 101 void I2C_DeInit(I2C_TypeDef* I2Cx)
  201                     ; 102 {
  203                     	switch	.text
